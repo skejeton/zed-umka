@@ -7,5 +7,5 @@ description = "Adds support for the Umka programming language"
 repository = "https://github.com/skejeton/zed-umka"
 
 [grammars.umka]
-commit = "5020c9f43c6f0911ee705fed18150d6a829ba1b0"
-repository = "https://github.com/skejeton/tree-sitter-umka"
+commit = "d164af5bcda71cb7817d2c7f4beb61aac4fcf27e"
+repository = "https://github.com/thacuber2a03/tree-sitter-umka"
